@@ -1,0 +1,2 @@
+Previuosly i have used touch command
+now i am using nano command
